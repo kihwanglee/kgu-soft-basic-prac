@@ -22,6 +22,7 @@
 |:---:|:---|:---:|
 | 01 | 구글 코랩 첫걸음 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/01/lect01-prac.ipynb) |
 | 02 | 파이썬 기초 실습 (출력·계산·문자열·자료형·변수) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/02/lect02-prac.ipynb) |
+| 03 | 변수와 연산 (변수 이름·문자열 변수·input·터틀 그래픽) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/03/lect03-prac.ipynb) |
 
 *(이후 주차는 강의 진행에 따라 추가됩니다.)*
 
