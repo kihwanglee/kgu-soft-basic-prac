@@ -24,6 +24,7 @@
 | 02 | 파이썬 기초 실습 (출력·계산·문자열·자료형·변수) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/02/lect02-prac.ipynb) |
 | 03 | 변수와 연산 (변수 이름·문자열 변수·input·터틀 그래픽) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/03/lect03-prac.ipynb) |
 | 04 | 연산과 입출력 (float·f-문자열·산술연산·복합대입·우선순위) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/04/lect04-prac.ipynb) |
+| 05 | 조건문 (관계·논리 연산자·if-elif-else·중첩 조건문) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/05/lect05-prac.ipynb) |
 
 *(이후 주차는 강의 진행에 따라 추가됩니다.)*
 
