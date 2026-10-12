@@ -26,6 +26,7 @@
 | 04 | 연산과 입출력 (float·f-문자열·산술연산·복합대입·우선순위) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/04/lect04-prac.ipynb) |
 | 05 | 조건문 (관계·논리 연산자·if-elif-else·중첩 조건문) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/05/lect05-prac.ipynb) |
 | 06 | 리스트와 for 반복문 (리스트·인덱싱·슬라이싱·메서드·for·range) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/06/lect06-prac.ipynb) |
+| 07 | 중첩 반복문과 딕셔너리 (리스트·반복 종합·중첩 for·구구단·딕셔너리) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-soft-basic-prac/blob/main/07/lect07-prac.ipynb) |
 
 *(이후 주차는 강의 진행에 따라 추가됩니다.)*
 
